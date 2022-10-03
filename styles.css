@@ -17,8 +17,8 @@ body{
     margin-left:10px;
 }
 h2{
-    font-size:25px;
-    border: 5px double beige;
+    font-size:35px;
+    border: 10px double beige;
     margin-left:250px;
     margin-right:250px;
     margin-top:100px;
@@ -28,14 +28,48 @@ h2{
 }
 
 #BATMAN{
-    font-size:18px;
+    font-size:25px;
     margin-left:10px;
     margin-top:30px;
 }
-.Fotobatman{
-    width:100px;
-    height:75px;
+
+.fotobatman{
+    width:400px;
+    height:500px;
 }
-h5{}
-span{}
-.JOKER{}
+
+h5{
+    font-size:25px;
+    margin-bottom:10px
+}
+.fichaBatman{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    position:relative;
+    bottom:500px;
+    right:125px;
+}
+.frase{
+    font-size:27px;
+    margin-top:30px;
+}
+.fotojoker{
+    width:400px;
+    height:500px;
+    display:inline;
+    position:relative;
+    bottom:600px;
+    left:765px;
+}
+.villano{
+    display:inline;
+    position:relative;
+    left:1060px;
+    bottom:1120px;
+}
+.fondo{
+    background-image:url(https://rukminim1.flixcart.com/image/416/416/jqmnv680/poster/y/q/j/medium-pwl-wall-poster-13-19-inches-matte-finish-batman-batman-original-imaegtxezvxdkkcc.jpeg?q=70);
+    
+}
