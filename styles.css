@@ -27,13 +27,13 @@ h2{
     align-items:center;
 }
 
-#BATMAN{
+h3{
     font-size:25px;
     margin-left:10px;
     margin-top:30px;
 }
 
-.fotobatman{
+.fotoheroe{
     width:400px;
     height:500px;
 }
@@ -53,9 +53,9 @@ h5{
 }
 .frase{
     font-size:27px;
-    margin-top:30px;
+    margin-top:55px;
 }
-.fotojoker{
+.fotovillano{
     width:400px;
     height:500px;
     display:inline;
@@ -69,7 +69,6 @@ h5{
     left:1060px;
     bottom:1120px;
 }
-.fondo{
-    background-image:url(https://rukminim1.flixcart.com/image/416/416/jqmnv680/poster/y/q/j/medium-pwl-wall-poster-13-19-inches-matte-finish-batman-batman-original-imaegtxezvxdkkcc.jpeg?q=70);
-    
-}
+
+
+
