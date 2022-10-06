@@ -28,7 +28,7 @@ h2{
 }
 
 h3{
-    font-size:25px;
+    font-size:40px;
     margin-left:10px;
     margin-top:30px;
 }
@@ -42,7 +42,7 @@ h5{
     font-size:25px;
     margin-bottom:10px
 }
-.fichaBatman{
+.fichaHeroes{
     display:flex;
     justify-content:center;
     align-items:center;
@@ -52,6 +52,8 @@ h5{
     right:125px;
 }
 .frase{
+    position:relative;
+
     font-size:27px;
     margin-top:55px;
 }
@@ -67,7 +69,33 @@ h5{
     display:inline;
     position:relative;
     left:1060px;
-    bottom:1120px;
+    bottom:1120px
+}
+#SUPERMAN{
+    position:relative;
+    bottom:500px;
+}
+#FLASH{
+    position:relative;
+    bottom:950px;
+}
+
+#AQUAMAN{
+    position:relative;
+    bottom:1450px;
+}
+#WONDERWOMAN{
+    position:relative;
+    bottom:1950px;
+}
+#GREENLANTERN{ 
+    position:relative;
+    bottom:2500px;
+}
+#GREENARROW{
+    position:relative;
+    bottom:3000px;
+    margin-bottom:10px;
 }
 
 
