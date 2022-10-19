@@ -1,0 +1,31 @@
+body{
+    background-color:rgba(150, 4, 4, 0.966);
+    color:white;
+    font-family:cursive;
+}
+.titulo{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:80px;
+    border:5px solid whitesmoke;
+    margin-left:300px;
+    margin-right:300px;
+}
+h2{
+    font-size: 50px
+}
+#capitanamerica{
+    font-size:30px;
+    position:relative;
+}
+.fotoheroe{
+    width:400px;
+    height:450px;
+}
+#lista{
+    font-size:25px;
+    position:absolute;
+    left:420px;
+    top:70px;
+}
