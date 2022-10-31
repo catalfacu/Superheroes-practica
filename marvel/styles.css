@@ -25,15 +25,15 @@ h2{
     border:4px solid black;
 }
 #lista{
-    font-size:20px;
+    font-size:17px;
     position:absolute;
     left:400px;
     top:200px;
 }
 p{
     position:absolute;
-    left:60%;
-    top:14%;
+    left:65%;
+    top:15%;
     font-size:20px;
 }
 .fotovillano{
@@ -43,4 +43,16 @@ p{
     width:350px;
     height:450px;
     border: 4px black solid;
+}
+#ironman{
+    font-size:30px;
+    position:relative;
+}
+#thor{
+    font-size:30px;
+    position:relative;
+}
+#hulk{
+    font-size:30px;
+    position:relative;
 }
