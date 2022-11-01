@@ -33,7 +33,7 @@ h2{
 p{
     position:absolute;
     left:65%;
-    top:15%;
+    top:13%;
     font-size:20px;
 }
 .fotovillano{
@@ -53,6 +53,18 @@ p{
     position:relative;
 }
 #hulk{
+    font-size:30px;
+    position:relative;
+}
+#spiderman{
+    font-size:30px;
+    position:relative;
+}
+#blackwidow{
+    font-size:30px;
+    position:relative;
+}
+#hawkeye{
     font-size:30px;
     position:relative;
 }
